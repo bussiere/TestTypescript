@@ -1,0 +1,12 @@
+{
+    "name": "swingsy",
+    "version": "0.54.1",
+    "devDependencies": {
+        "ts-loader": "^3.0.5"
+    },
+    "dependencies": {
+        "path": "^0.12.7",
+        "typescript": "^2.5.3",
+        "webpack": "^3.8.1"
+    }
+}
